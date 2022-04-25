@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "295ba88992f5e432",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9bb53d7d634ad4b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "VHDL coding style/VHDL structural code style.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c3d6e8e4c31a128",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a85cc8bda6b2115",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9abe817e0bcbf83f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8eb3bb5e06dcdece",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5388738ef492a626",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd5a308d4c1aad1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2722627b76c1d9da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "VHDL coding style/VHDL structural code style.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c9bb53d7d634ad4b",
+  "lastOpenFiles": [
+    "VHDL coding style/VHDL structural code style.md",
+    "VHDL coding style/behavioral and structural code.md",
+    "estruturas atômicas.md",
+    "VHDL coding style/VHDL behavioral code style.md",
+    "VHDL coding style/VHDL coding style.md",
+    "VHDL coding style/rtl.md",
+    "VHDL coding style/instâncias ocupam muitas linhas de código junto com a criação de muitos 'signals'.md",
+    "VHDL coding style/induz o 'designer' a acoplar conceitos pelo comodismo de criar um grande bloco que soluciona uma especificação do [[application domain.md",
+    "estruturas genéricas.md",
+    "VHDL coding style/application domain.md"
+  ]
+}

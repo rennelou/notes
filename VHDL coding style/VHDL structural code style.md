@@ -1,0 +1,1 @@
+Estilo de código onde um bloco é montado unicamente pela instanciação e composição de sub-blocos

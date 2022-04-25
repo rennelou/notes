@@ -1,0 +1,1 @@
+Instância de entidades em [[VHDL]] é um 'boilerplate'
