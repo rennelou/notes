@@ -1,1 +1,0 @@
-Sensação de que quando um código é feito apenas para transcrever a solução de um problema específico. Esse código terá vários conceitos acoplados ([[estruturas atômicas]] passarão desapercebidos) enquanto [[estruturas genéricas]] irão passar desapercebidos

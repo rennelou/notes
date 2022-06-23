@@ -1,1 +1,0 @@
-Descrição de comportamental de 'hardware' de onde as ferramentas de [[síntese]] inferem o [[rtl]]
